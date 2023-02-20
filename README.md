@@ -67,7 +67,7 @@ Based on the modeling that has been done, feature hour is the most influential f
   
   ## **Recommendations**
 
-    Perform A/B testing to test the effectiveness of the model on the number of overall rented bikes when compared to Capital Bikeshare which determines the number of overall rented bikes itself.
+Perform A/B testing to test the effectiveness of the model on the number of overall rented bikes when compared to Capital Bikeshare which determines the number of overall rented bikes itself.
 
 Then, things that can be done to develop the model to make it even better, such as:
 
